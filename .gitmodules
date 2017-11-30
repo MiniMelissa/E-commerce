@@ -1,0 +1,6 @@
+[submodule "BookStore"]
+	path = BookStore
+	url = git@github.com:MiniMelissa/BookStore.git
+[submodule "AdminPortal"]
+	path = AdminPortal
+	url = git@github.com:MiniMelissa/AdminPortal.git
